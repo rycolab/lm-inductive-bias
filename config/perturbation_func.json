@@ -1,0 +1,592 @@
+{
+    "LocalShuffle_seed1_window3": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 1,
+        "window": 3
+    },
+    "LocalShuffle_seed1_window4": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 1,
+        "window": 4
+    },
+    "LocalShuffle_seed1_window5": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 1,
+        "window": 5
+    },
+    "LocalShuffle_seed1_window6": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 1,
+        "window": 6
+    },
+    "LocalShuffle_seed1_window7": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 1,
+        "window": 7
+    },
+    "LocalShuffle_seed2_window3": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 2,
+        "window": 3
+    },
+    "LocalShuffle_seed2_window4": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 2,
+        "window": 4
+    },
+    "LocalShuffle_seed2_window5": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 2,
+        "window": 5
+    },
+    "LocalShuffle_seed2_window6": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 2,
+        "window": 6
+    },
+    "LocalShuffle_seed2_window7": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 2,
+        "window": 7
+    },
+    "LocalShuffle_seed3_window3": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 3,
+        "window": 3
+    },
+    "LocalShuffle_seed3_window4": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 3,
+        "window": 4
+    },
+    "LocalShuffle_seed3_window5": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 3,
+        "window": 5
+    },
+    "LocalShuffle_seed3_window6": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 3,
+        "window": 6
+    },
+    "LocalShuffle_seed3_window7": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 3,
+        "window": 7
+    },
+    "LocalShuffle_seed4_window3": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 4,
+        "window": 3
+    },
+    "LocalShuffle_seed4_window4": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 4,
+        "window": 4
+    },
+    "LocalShuffle_seed4_window5": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 4,
+        "window": 5
+    },
+    "LocalShuffle_seed4_window6": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 4,
+        "window": 6
+    },
+    "LocalShuffle_seed4_window7": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 4,
+        "window": 7
+    },
+    "LocalShuffle_seed5_window3": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 5,
+        "window": 3
+    },
+    "LocalShuffle_seed5_window4": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 5,
+        "window": 4
+    },
+    "LocalShuffle_seed5_window5": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 5,
+        "window": 5
+    },
+    "LocalShuffle_seed5_window6": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 5,
+        "window": 6
+    },
+    "LocalShuffle_seed5_window7": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 5,
+        "window": 7
+    },
+    "LocalShuffle_seed6_window3": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 6,
+        "window": 3
+    },
+    "LocalShuffle_seed6_window4": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 6,
+        "window": 4
+    },
+    "LocalShuffle_seed6_window5": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 6,
+        "window": 5
+    },
+    "LocalShuffle_seed6_window6": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 6,
+        "window": 6
+    },
+    "LocalShuffle_seed6_window7": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 6,
+        "window": 7
+    },
+    "LocalShuffle_seed7_window3": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 7,
+        "window": 3
+    },
+    "LocalShuffle_seed7_window4": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 7,
+        "window": 4
+    },
+    "LocalShuffle_seed7_window5": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 7,
+        "window": 5
+    },
+    "LocalShuffle_seed7_window6": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 7,
+        "window": 6
+    },
+    "LocalShuffle_seed7_window7": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 7,
+        "window": 7
+    },
+    "LocalShuffle_seed8_window3": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 8,
+        "window": 3
+    },
+    "LocalShuffle_seed8_window4": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 8,
+        "window": 4
+    },
+    "LocalShuffle_seed8_window5": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 8,
+        "window": 5
+    },
+    "LocalShuffle_seed8_window6": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 8,
+        "window": 6
+    },
+    "LocalShuffle_seed8_window7": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 8,
+        "window": 7
+    },
+    "LocalShuffle_seed9_window3": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 9,
+        "window": 3
+    },
+    "LocalShuffle_seed9_window4": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 9,
+        "window": 4
+    },
+    "LocalShuffle_seed9_window5": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 9,
+        "window": 5
+    },
+    "LocalShuffle_seed9_window6": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 9,
+        "window": 6
+    },
+    "LocalShuffle_seed9_window7": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 9,
+        "window": 7
+    },
+    "LocalShuffle_seed10_window3": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 10,
+        "window": 3
+    },
+    "LocalShuffle_seed10_window4": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 10,
+        "window": 4
+    },
+    "LocalShuffle_seed10_window5": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 10,
+        "window": 5
+    },
+    "LocalShuffle_seed10_window6": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 10,
+        "window": 6
+    },
+    "LocalShuffle_seed10_window7": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 10,
+        "window": 7
+    },
+    "LocalShuffle_seed11_window3": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 11,
+        "window": 3
+    },
+    "LocalShuffle_seed11_window4": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 11,
+        "window": 4
+    },
+    "LocalShuffle_seed11_window5": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 11,
+        "window": 5
+    },
+    "LocalShuffle_seed11_window6": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 11,
+        "window": 6
+    },
+    "LocalShuffle_seed11_window7": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 11,
+        "window": 7
+    },
+    "LocalShuffle_seed12_window3": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 12,
+        "window": 3
+    },
+    "LocalShuffle_seed12_window4": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 12,
+        "window": 4
+    },
+    "LocalShuffle_seed12_window5": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 12,
+        "window": 5
+    },
+    "LocalShuffle_seed12_window6": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 12,
+        "window": 6
+    },
+    "LocalShuffle_seed12_window7": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 12,
+        "window": 7
+    },
+    "LocalShuffle_seed13_window3": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 13,
+        "window": 3
+    },
+    "LocalShuffle_seed13_window4": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 13,
+        "window": 4
+    },
+    "LocalShuffle_seed13_window5": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 13,
+        "window": 5
+    },
+    "LocalShuffle_seed13_window6": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 13,
+        "window": 6
+    },
+    "LocalShuffle_seed13_window7": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 13,
+        "window": 7
+    },
+    "LocalShuffle_seed14_window3": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 14,
+        "window": 3
+    },
+    "LocalShuffle_seed14_window4": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 14,
+        "window": 4
+    },
+    "LocalShuffle_seed14_window5": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 14,
+        "window": 5
+    },
+    "LocalShuffle_seed14_window6": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 14,
+        "window": 6
+    },
+    "LocalShuffle_seed14_window7": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 14,
+        "window": 7
+    },
+    "LocalShuffle_seed15_window3": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 15,
+        "window": 3
+    },
+    "LocalShuffle_seed15_window4": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 15,
+        "window": 4
+    },
+    "LocalShuffle_seed15_window5": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 15,
+        "window": 5
+    },
+    "LocalShuffle_seed15_window6": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 15,
+        "window": 6
+    },
+    "LocalShuffle_seed15_window7": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 15,
+        "window": 7
+    },
+    "LocalShuffle_seed16_window3": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 16,
+        "window": 3
+    },
+    "LocalShuffle_seed16_window4": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 16,
+        "window": 4
+    },
+    "LocalShuffle_seed16_window5": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 16,
+        "window": 5
+    },
+    "LocalShuffle_seed16_window6": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 16,
+        "window": 6
+    },
+    "LocalShuffle_seed16_window7": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 16,
+        "window": 7
+    },
+    "LocalShuffle_seed17_window3": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 17,
+        "window": 3
+    },
+    "LocalShuffle_seed17_window4": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 17,
+        "window": 4
+    },
+    "LocalShuffle_seed17_window5": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 17,
+        "window": 5
+    },
+    "LocalShuffle_seed17_window6": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 17,
+        "window": 6
+    },
+    "LocalShuffle_seed17_window7": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 17,
+        "window": 7
+    },
+    "LocalShuffle_seed18_window3": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 18,
+        "window": 3
+    },
+    "LocalShuffle_seed18_window4": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 18,
+        "window": 4
+    },
+    "LocalShuffle_seed18_window5": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 18,
+        "window": 5
+    },
+    "LocalShuffle_seed18_window6": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 18,
+        "window": 6
+    },
+    "LocalShuffle_seed18_window7": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 18,
+        "window": 7
+    },
+    "LocalShuffle_seed19_window3": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 19,
+        "window": 3
+    },
+    "LocalShuffle_seed19_window4": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 19,
+        "window": 4
+    },
+    "LocalShuffle_seed19_window5": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 19,
+        "window": 5
+    },
+    "LocalShuffle_seed19_window6": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 19,
+        "window": 6
+    },
+    "LocalShuffle_seed19_window7": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 19,
+        "window": 7
+    },
+    "LocalShuffle_seed20_window3": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 20,
+        "window": 3
+    },
+    "LocalShuffle_seed20_window4": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 20,
+        "window": 4
+    },
+    "LocalShuffle_seed20_window5": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 20,
+        "window": 5
+    },
+    "LocalShuffle_seed20_window6": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 20,
+        "window": 6
+    },
+    "LocalShuffle_seed20_window7": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 20,
+        "window": 7
+    },
+    "DeterministicShuffle_seed1": {
+        "_target_": "perturbation.perturbation_func.DeterministicShuffle",
+        "seed": 1
+    },
+    "DeterministicShuffle_seed2": {
+        "_target_": "perturbation.perturbation_func.DeterministicShuffle",
+        "seed": 2
+    },
+    "DeterministicShuffle_seed3": {
+        "_target_": "perturbation.perturbation_func.DeterministicShuffle",
+        "seed": 3
+    },
+    "DeterministicShuffle_seed4": {
+        "_target_": "perturbation.perturbation_func.DeterministicShuffle",
+        "seed": 4
+    },
+    "DeterministicShuffle_seed5": {
+        "_target_": "perturbation.perturbation_func.DeterministicShuffle",
+        "seed": 5
+    },
+    "DeterministicShuffle_seed6": {
+        "_target_": "perturbation.perturbation_func.DeterministicShuffle",
+        "seed": 6
+    },
+    "DeterministicShuffle_seed7": {
+        "_target_": "perturbation.perturbation_func.DeterministicShuffle",
+        "seed": 7
+    },
+    "DeterministicShuffle_seed8": {
+        "_target_": "perturbation.perturbation_func.DeterministicShuffle",
+        "seed": 8
+    },
+    "DeterministicShuffle_seed9": {
+        "_target_": "perturbation.perturbation_func.DeterministicShuffle",
+        "seed": 9
+    },
+    "DeterministicShuffle_seed10": {
+        "_target_": "perturbation.perturbation_func.DeterministicShuffle",
+        "seed": 10
+    },
+    "DeterministicShuffle_seed11": {
+        "_target_": "perturbation.perturbation_func.DeterministicShuffle",
+        "seed": 11
+    },
+    "DeterministicShuffle_seed12": {
+        "_target_": "perturbation.perturbation_func.DeterministicShuffle",
+        "seed": 12
+    },
+    "DeterministicShuffle_seed13": {
+        "_target_": "perturbation.perturbation_func.DeterministicShuffle",
+        "seed": 13
+    },
+    "DeterministicShuffle_seed14": {
+        "_target_": "perturbation.perturbation_func.DeterministicShuffle",
+        "seed": 14
+    },
+    "DeterministicShuffle_seed15": {
+        "_target_": "perturbation.perturbation_func.DeterministicShuffle",
+        "seed": 15
+    },
+    "DeterministicShuffle_seed16": {
+        "_target_": "perturbation.perturbation_func.DeterministicShuffle",
+        "seed": 16
+    },
+    "DeterministicShuffle_seed17": {
+        "_target_": "perturbation.perturbation_func.DeterministicShuffle",
+        "seed": 17
+    },
+    "DeterministicShuffle_seed18": {
+        "_target_": "perturbation.perturbation_func.LocalShuffle",
+        "seed": 3,
+        "window": 4
+    },
+    "DeterministicShuffle_seed19": {
+        "_target_": "perturbation.perturbation_func.DeterministicShuffle",
+        "seed": 19
+    },
+    "DeterministicShuffle_seed20": {
+        "_target_": "perturbation.perturbation_func.DeterministicShuffle",
+        "seed": 20
+    },
+    "OddEvenShuffle": {
+        "_target_": "perturbation.perturbation_func.OddEvenShuffle"
+    },
+    "EvenOddShuffle": {
+        "_target_": "perturbation.perturbation_func.EvenOddShuffle"
+    },
+    "Reverse": {
+        "_target_": "perturbation.perturbation_func.Reverse"
+    }
+}

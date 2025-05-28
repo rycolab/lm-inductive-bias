@@ -1,0 +1,7 @@
+
+
+
+[submodule "src/rau"]
+	path = src/rau
+	url = https://github.com/bdusell/rau.git
+	branch = differentiable-stacks

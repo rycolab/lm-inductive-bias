@@ -1,0 +1,11 @@
+n_states: 5
+n_symbols: 8
+mean_length: 40
+N_train: 20000
+N_val: 5000
+N_test: 5000
+disjoint: False
+topology_seed: 42
+weight_seed: 1
+m_max: 5
+output:
